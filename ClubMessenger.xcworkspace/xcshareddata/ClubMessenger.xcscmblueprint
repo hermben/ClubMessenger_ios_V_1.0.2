@@ -1,0 +1,27 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6deef8ef-1bdf-46f2-8bc8-bc055d7f15af++9111",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6deef8ef-1bdf-46f2-8bc8-bc055d7f15af++9111" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "ios\/branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "ios\/tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "ios\/trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6deef8ef-1bdf-46f2-8bc8-bc055d7f15af++9111" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "63BE7DB3-C75D-4D1C-9E3F-BD3FFBBE2E8E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6deef8ef-1bdf-46f2-8bc8-bc055d7f15af++9111" : "trunk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ClubMessenger",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ClubMessenger.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.201\/svn\/lionsmessenger",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6deef8ef-1bdf-46f2-8bc8-bc055d7f15af++9111"
+    }
+  ]
+}

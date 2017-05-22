@@ -1,0 +1,1 @@
+/Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/Build/Intermediates/ArchiveIntermediates/Q-municate/InstallationBuildProductsLocation/Applications/ClubMessenger.app

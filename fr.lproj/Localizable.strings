@@ -1,0 +1,348 @@
+/*
+ Localized.strings
+ ClubMessenger
+ 
+ Created by Andrey Ivanov on 05.08.14.
+ Copyright (c) 2014 CLUBMESSENGER. All rights reserved.
+ */
+"QM_STR_OK" = "OK";
+"QM_STR_SUCCESS" = "Success";
+"QM_STR_ERROR" = "Erreur";
+"QM_STR_EMAIL_FIELD_IS_EMPTY" = "Le champ Email est vide";
+"QM_STR_USER_WITH_EMAIL_WASNT_FOUND" = "L'utilisateur de l'email est introuvable";
+"QM_STR_FILL_IN_ALL_THE_FIELDS" = "Remplissez tous les champs";
+"QM_STR_PASSWORD_CHANGED" = "Mot de passe modifie";
+"QM_STR_CHECK_INTERNET_CONNECTION" = "Vérifiez votre connexion Internet";
+
+
+"QM_STR_CHAT_SERVER_UNAVAILABLE" = "Le service de chat est indisponible temporairement";
+"QM_STR_TYPING" = "saisie...";
+"QM_STR_MESSAGE_WAS_SENT_TO_YOUR_EMAIL" = "Le message a été envoyé à votre adresse e-mail. Vérifie le";
+"QM_STR_INVITATION_WAS_POSTED_TO_WALL" = "Invitation a été posté au mur.";
+"QM_STR_THANKS" = "Merci!";
+
+"QM_STR_PHONE_VERIFICATION" = "Vérification téléphonique";
+
+
+"QM_STR_MAIL_COMPOSER_ERROR_DESCRIPTION" = "Nous ne pouvons pas envoyer vos commentaires en raison d'un compte de messagerie mal configuré. Accédez à l'application Paramètres -> Courrier, Contact, Calendriers et configurez-le.";
+
+
+"QM_STR_CANT_MAKE_CALLS" = "Désolé, vous ne pouvez passer d'appel tant que l'invitation soit acceptée";
+"QM_STR_CANT_SEND_MESSAGES" = "Désolé, vous ne pouvez pas envoyer de messages tant que l'invitation n'est pas acceptée";
+
+
+//  ********** Contact requests notification text: ***************
+"QM_STR_FRIEND_REQUEST_DID_SEND_FOR_ME" = "Votre requete à été envoyé";
+"QM_STR_FRIEND_REQUEST_DID_SEND_FOR_OPPONENT" = "Je t'invite a chater avec moi";
+
+
+"QM_STR_FRIEND_REQUEST_DID_CONFIRM_FOR_ME" = "Vous avez accepté une requete";
+"QM_STR_FRIEND_REQUEST_DID_CONFIRM_FOR_OPPONENT" = "Votre requete a été acceptée";
+
+
+"QM_STR_FRIEND_REQUEST_DID_REJECT_FOR_ME" = "Vous avez rejeté une requete";
+"QM_STR_FRIEND_REQUEST_DID_REJECT_FOR_OPPONENT" = "Votre requete a été rejetée";
+
+
+"QM_STR_FRIEND_REQUEST_DID_DELETE_FOR_ME" = "Vous avez supprimé% @ de votre liste de contacts";
+"QM_STR_FRIEND_REQUEST_DID_DELETE_FOR_OPPONENT" = "% @ Vous a supprimé de la liste de contacts ";
+
+
+// *********** GROUP NOTIFICATIONS *****************
+"QM_STR_ADD_USERS_TO_EXIST_GROUP_CONVERSATION_TEXT" = "% @ A ajouté% @";
+
+
+
+
+"QM_STR_UPDATE_GROUP_NAME_TEXT" = "% @ A changé le nom du chat en \"% @ \".";
+"QM_STR_UPDATE_GROUP_AVATAR_TEXT" = "% @ A changé l'image du chat.";
+"QM_STR_LEAVE_GROUP_CONVERSATION_TEXT" = "% @ A quitté le chat du groupe.";
+
+
+// *********** CALL NOTIFICATIONS *****************
+"QM_STR_OUTGOING_CALL" = "Appel sortant";
+"QM_STR_OUTGOING_VIDEO_CALL" = "Appel vidéo sortant";
+
+
+"QM_STR_INCOMING_CALL" = "Appel entrant";
+"QM_STR_INCOMING_VIDEO_CALL" = "Appel vidéo entrant";
+
+
+"QM_STR_MISSED_CALL" = "Appel manqué";
+"QM_STR_MISSED_VIDEO_CALL" = "Vidéo manquée";
+
+
+"QM_STR_NO_ANSWER" = "Pas de réponse";
+
+
+// *********** Notifications ***********
+"QM_STR_REPLY" = "Répondre";
+
+
+// *********** Error handling ***********
+"QM_STR_BAD_GATEWAY_ERROR" = "Bad Gateway, veuillez réessayer";
+"QM_STR_CONNECTION_NETWORK_ERROR" = "Erreur réseau de connexion, veuillez réessayer";
+"QM_STR_INCORRECT_USER_DATA_ERROR" = "Identifiant ou mot de passe incorrect";
+"QM_STR_UNKNOWN_ERROR" = "Quelque chose a mal tourné. Veuillez réessayer";
+
+
+// *********** Message Status String Builder ***********
+"QM_STR_READ_STATUS" = "Lu";
+"QM_STR_DELIVERED_STATUS" = "Délivré";
+"QM_STR_SEEN_STATUS" = "Vu";
+"QM_STR_SENT_STATUS" = "Envoyé";
+"QM_STR_SENDING_STATUS" = "en cours d'envoie";
+"QM_STR_NOT_SENT_STATUS" = "Non Envoyé";
+"QM_STR_SEEN_BY_AMOUNT_PEOPLE_STATUS" = "Vu par %tu gens";
+"QM_STR_READ_BY_AMOUNT_PEOPLE_STATUS" = "Lu par %tu gens";
+"QM_STR_SEEN_BY_NAMES_STATUS" = "Seen: %@";
+"QM_STR_READ_BY_NAMES_STATUS" = "Lu: %@";
+"QM_STR_DELIVERED_TO_AMOUNT_PEOPLE_STATUS" = "Délivré a %tu gens";
+"QM_STR_DELIVERED_TO_NAMES_STATUS" = "Délivré: %@";
+
+
+// *********** Dialogs Screen ***********
+"QM_STR_LOCAL_SEARCH" = "Local";
+"QM_STR_GLOBAL_SEARCH" = "Global";
+"QM_STR_SEARCH_BAR_PLACEHOLDER" = "Chercher";
+"QM_STR_CONFIRM_DELETE_DIALOG" = "Voulez-vous vraiment supprimer\"%@\" chat?";
+
+
+// *********** New Message Screen ***********
+"QM_STR_NO_CONTACTS" = "Vous n'avez aucun contact.";
+
+
+// *********** New Group Screen ***********
+"QM_STR_NAME_FIELD_PLACEHOLDER" = "Nom du groupe";
+"QM_STR_TAG_FIELD_PLACEHOLDER" = "Saisissez un nom du contact";
+
+
+"QM_STR_FRIEND_REQUEST_DID_SEND_FOR_ALL" = "Voulez-vous ajouter tous les contacts utilisateur de ce groupe?";
+"QM_STR_FRIEND_REQUEST_ADD_ALL"          = "Ajouter tous les utilisateurs.";
+
+
+// *********** Chat Screen ***********
+"QM_STR_INPUTTOOLBAR_PLACEHOLDER" = "Message";
+"QM_STR_GROUP_CHAT_STATUS_STRING" = "%tu membre, %tu en ligne";
+"QM_STR_SEND" = "envoyer";
+"QM_STR_MESSAGE_DIDNT_SEND" = "Le message n'a pas été envoyé";
+"QM_STR_TRY_AGAIN" = "Réessayer";
+
+
+// *********** User Status ***********
+"QM_STR_ONLINE" = "En ligne";
+"QM_STR_OFFLINE" = "Hors ligne";
+"QM_STR_LAST_SEEN" = "Vu dernièrement";
+"QM_STR_TIME_PREFIX" = "a";
+"QM_STR_UNKNOWN_USER" = "Utilisateur inconnu";
+
+
+// *********** Navigation ***********
+"QM_STR_BACK" = "Arrière";
+
+
+// *********** Picker ***********
+"QM_STR_TAKE_IMAGE" = "Prendre l'image";
+"QM_STR_CHOOSE_IMAGE" = "Choisissez l'image";
+"QM_STR_OPEN_IMAGE" = "Ouvrir l'image";
+"QM_STR_LOCATION" = "Emplacement";
+"QM_STR_CANCEL" = "Annuler";
+
+
+// *********** Location ***********
+"QM_STR_LOCATION_ERROR" = "Erreur de services de localisation";
+"QM_STR_NO_PERMISSIONS_TO_LOCATION" = "L'application n'a pas accès aux services de localisation. Allez dans les paramètres et activez-les.";
+
+
+// *********** User info ***********
+"QM_STR_NONE" = "Aucun";
+"QM_STR_CONFIRM_DELETE_CONTACT" = "Voulez-vous vraiment supprimer% @ de votre liste de contacts?";
+"QM_STR_DELETE" = "Effacer";
+
+
+// *********** Group info ***********
+"QM_STR_MEMBERS" = "MEMBRES";
+"QM_STR_CONFIRM_LEAVE" = "Voulez-vous vraiment quitter% @?";
+"QM_STR_LEAVE" = "Se Déconnecter";
+
+
+// *********** Connection ***********
+"QM_STR_CONNECTING" = "connection en cours";
+"QM_STR_CHAT_CONNECTED" = "Connecté";
+"QM_STR_CHAT_RECONNECTED" = "Reconnecté";
+"QM_STR_CHAT_FAILED_TO_CONNECT_WITH_ERROR" = "Échec de connexion du chat";
+"QM_STR_SIGNING_IN" = "Connectez-vous";
+"QM_STR_LOADING" = "Chargement";
+"QM_STR_LOST_INTERNET_CONNECTION" = "Perte de connexion Internet";
+"QM_STR_CONNECTION_IN_PROGRESS" = "Connexion au service de chat, veuillez patienter";
+
+
+// *********** Update user ***********
+"QM_STR_EMAIL" = "Email";
+"QM_STR_EMAIL_DESCRIPTION" = "EMail doit ressembler à une adresse e-mail \ n3-∞ caractères \ Obligatoire";
+"QM_STR_FULLNAME" = "Nom complet";
+"QM_STR_FULLNAME_DESCRIPTION" = "Le nom complet est composé de texte / champ numérique, peut contenir tout sauf '<', '>', ';'.\n3-50 characters.\nMandatory.";
+"QM_STR_STATUS" = "Status";
+"QM_STR_STATUS_DESCRIPTION" = "court Message texte qui sera affiché dans votre profil.";
+"QM_STR_PASSWORD_DESCRIPTION" = "Texte, champ numérique ou symbolique. \ N8-40 caractères. \ Obligatoire.";
+"QM_STR_WRONG_OLD_PASSWORD" = "Ancien mot de passe incorrect";
+"QM_STR_PASSWORD_DONT_MATCH" = "Les mots de passe ne correspondent pas";
+"QM_STR_VERIFY_EMAIL"        = "Veuillez saisir un email valide";
+"QM_STR_PASSWORD_LENGTH"     = "Veuillez entrer un mot de passe avec au moins 8 caractères.";
+"QM_STR_GROUPS"              = "Sélectionnez District et Club";
+"QM_STR_SUB_GROUPS"          = "Sélectionnez District et Club";
+"QM_STR_FULLNAME"            = "Entrez le nom complet";
+
+
+
+// *********** Calls ***********
+"QM_STR_CALL" = "Call";
+"QM_STR_INCOMING_CALL" = "Appel entrant";
+"QM_STR_INCOMING_VIDEO_CALL" = "Appel vidéo entrant";
+"QM_STR_CALLING" = "Appel en cours";
+"QM_STR_VIDEO_CALLING" = "Appel Video en cours";
+"QM_STR_MICROPHONE_ERROR" = "Erreur du microphone";
+"QM_STR_CAMERA_ERROR" = "Erreur de caméra";
+"QM_STR_NO_PERMISSIONS_TO_MICROPHONE" = "L'application n'a pas accès au microphone. Allez dans les paramètres et activez-le.";
+"QM_STR_NO_PERMISSIONS_TO_CAMERA" = "L'application n'a pas accès à la caméra. Allez dans les paramètres et activez-la.";
+"QM_STR_CALL_WAS_CANCELLED" = "L'appel a été annulé";
+"QM_STR_USER_IS_BUSY" = "L'utilisateur est occupé";
+"QM_STR_BAD_CONNECTION" = "Mauvaise connexion";
+"QM_STR_BAD_CONNECTION_TRYING_TO_RESUME" = "Mauvaise connexion, reconnection en cours";
+"QM_STR_CALL_WAS_STOPPED" = "L'appel a été arrêté";
+"QM_STR_USER_DOESNT_ANSWER" = "L'utilisateur ne répond pas";
+"QM_STR_IS_CALLING_YOU" = "Vous appelle.";
+"QM_STR_SETTINGS" = "Paramètres";
+
+
+// *********** Welcome screen ***********
+"QM_STR_LOGIN_WITH_FACEBOOK" = "Se connecter avec Facebook";
+"QM_STR_LOGIN_WITH_EMAIL" = "Connexion avec Email";
+"auth_sign_up_title"= "S'inscrire";
+"auth_login_title"= "S'identifier";
+"auth_forgot_password"= "Mot de passe oublié?";
+"auth_hint_full_name"= "Nom complet";
+"auth_hint_email"= "Email";
+"auth_hint_password"= "Mot de passe";
+
+
+
+
+// *********** Settings screen ***********
+"QM_STR_SHARE_TEXT" = "Dear friend, use ClubMessenger application to reach me! Download it here: http://ClubMessenger.org/";
+"QM_STR_LOGOUT_CONFIRMATION" = "Êtes-vous sûr de vouloir vous déconnecter?";
+"QM_STR_LOGOUT" = "Se déconnecter";
+"QM_STR_VERSION" = "Version";
+"QM_STR_POWERED_BY_CLUBMESSENGER" = "Alimenté par CLUBMESSENGER";
+
+
+"QM_STR_DELETE_CONFIRMATION" = "Voulez-vous vraiment supprimer votre compte?";
+"QM_STR_DELETE" = "supprimer";
+// *********** Feedback screen ***********
+"QM_STR_BUG" = "Bug";
+"QM_STR_IMPROVEMENT" = "Amélioration";
+"QM_STR_SUGGESTION" = "Suggestion";
+
+
+//-- Settings --="
+"settings_title"                ="Paramètres";
+"settings_profile"              ="Profile";
+"settings_logout"               ="Se deconnecter";
+"settings_change_password"      ="Changer de mot de passe";
+"settings_push_notifications"   ="Notifications push";
+"settings_version"              ="Version 1.0:";
+"settings_invite_friends"       ="Inviter des amis";
+"settings_give_feedback"        ="Envoyer un commentaire";
+"settings_delete_my_account"    ="Supprimer mon compte";
+
+
+
+
+// modification
+"auth_select_user_picture"  ="Photo de Profile";
+"auth_hint_dob"             ="Date de naissance";
+"auth_hint_present_title"   ="Lions Titre actuel";
+"auth_hint_group_multiple"  ="District multiple";
+"auth_hint_achievement"     ="Parcours Lion";
+"auth_hint_career"          ="Carrière";
+"auth_hint_city"            ="Ville";
+"auth_hint_state"           ="Etat/Province";
+"auth_hint_country"         ="Pays";
+"auth_hint_phone"           ="Num Telephone/cell";
+
+
+"settings_extended_search"  ="Recherche étendue";
+"settings_donate_fund"      ="Faire un don";
+"dialog_ctx_menu_profile"   ="Voir le Profile";
+
+
+//ActionBar
+"action_bar_chats"              ="Chats";
+"action_bar_settings"           ="Paramètres";
+"action_bar_invite_friends"     ="Invite Friends";
+"action_bar_feedback"           ="Commentaire";
+"action_bar_about"              ="a propos";
+"action_bar_search"             ="Recherche";
+"action_bar_search_hint"        ="Recherche";
+"action_bar_add_chat"           ="Ajouter un Chat";
+"action_bar_delete_friend"      ="Supprimer l'ami";
+"action_bar_add_friend_to_chat" ="Ajouter un ami à Chat";
+"action_bar_leave_chat"         ="Quitter le chat";
+"action_bar_chat_details"       ="Détails du Chat";
+"action_bar_add_chat_attach"    ="Ajouter une pièce jointe";
+
+
+// User Agreement
+"user_agreement_title"  = "Accord de l'utilisateur";
+"user_agreement_label"  = "En cliquant sur la case à cocher, vous acceptez le contrat d'utilisation de ClubMessenger";
+
+
+//add payment stripe
+"payment_email"                         ="Email";
+"payment_name_of_Card"                  ="Nom sur la carte de paiement";
+"payment_card_number"                   ="Numéro de carte";
+"payment_ex_date"                       ="Date d'expiration";
+"payment_cvv_no"                        ="Numéro CVV";
+"payment_desc"                          ="description (facultatif)";
+"payment_zipcode"                       ="Code postal";
+"payment_amount"                        ="Montant (en dollars)";
+"payment_amount_value"                  ="0";
+"payment_cardNumber"                    ="Numéro de carte";
+"payment_cvc"                           ="CVC";
+"payment_btn_send_payment"              ="Envoyer le paiement";
+"reg_error_MSG_ENTER_NAME"              ="Veuillez saisir un nom";
+"reg_error_MSG_ENTER_AMOUNT"            ="Veuillez saisir un montant";
+"reg_error_MSG_ENTER_AMOUNT_VALUE"      ="Veuillez saisir un montant minimum de 12 dollars";
+"reg_error_MSG_ENTER_MAIL"              ="Veuillez saisir une adresse e-mail";
+"reg_error_MSG_ENTER_VALID_MAIL"        ="Veuillez saisir une adresse e-mail valide";
+"reg_error_enter_card_number"           ="Veuillez saisir le numéro de votre carte";
+"reg_error_valide_card_number"          ="Veuillez entrer un numéro de carte valide";
+"reg_error_plz_select_month"            ="Veuillez sélectionner le mois d'expiration";
+"reg_error_plz_select_month_invalid"    ="Veuillez sélectionner un mois d'expiration valide";
+"reg_error_plz_select_year"             ="Veuillez sélectionner l'année d'expiration  ";
+"reg_error_plz_select_year_invalid"     ="Veuillez sélectionner une année d'expiration valide";
+"reg_error_enter_card_CVC"              ="Veuillez entrer le numéro CVC";
+"reg_error_valide_card_CVC"             ="Veuillez entrer un numéro CVC valide";
+"useanothercard"                        ="Utiliser une autre carte";
+"msg_please_wait"                       ="S'il vous plaît, attendez";
+
+
+"donate_fund_text_pay_stripe"           ="Paiement par carte de crédit / débit";
+"donate_fund_layout_text"               ="Tous vos paiements sont hautement sécurisés, vous êtes en sécurité, votre don annuel pour nous soutenir est de seulement 12 $, profiter de tous les services supplémentaires";
+"donate_fund_layout_text_contact_us"    ="lionsclubmembers@clubmessengers.org";
+"contact_us"                            ="contact us :";
+//Gloable Search
+"str_select_district"                   = "CHOISISSEZ LE DISTRICT";
+"str_select_club"                       = "CHOISISSEZ UN CLUB";
+"str_district"                          = "Districts";
+"str_no_district"                       = "No Districts";
+"str_club"                              = "Clubs";
+"str_no_club"                           = "No Clubs";
+"str_select_district_alert_dialog"      ="Veuillez sélectionner District et Club, il est obligatoire pour l'Utilisateur Facebook?";
+"str_select_district_alert_dialog1"     ="Sélectionnez District et Club";
+
+
+//Landing
+"landing_already_have_account"  = "LOGIN PAR COURRIEL OU SOCIAL";
+"landing_sign_up"               = "INSCRIVEZ-VOUS AVEC VOTRE EMAIL";
+"app_name"= "ClubMessenger";

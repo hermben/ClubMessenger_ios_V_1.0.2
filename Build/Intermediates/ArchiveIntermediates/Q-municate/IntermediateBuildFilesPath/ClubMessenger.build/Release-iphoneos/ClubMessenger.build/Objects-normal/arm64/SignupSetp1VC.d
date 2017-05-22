@@ -1,0 +1,13 @@
+dependencies: \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/Pods/QuickBlox/Quickblox.framework/Modules/module.modulemap \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/Pods/Digits/iOS/DigitsKit.framework/Modules/module.modulemap \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/Pods/TwitterCore/iOS/TwitterCore.framework/Modules/module.modulemap \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Auth/SignupStep1VC/SignupSetp1VC.m \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Auth/SignupStep1VC/SignupSetp1VC.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/Tools/QMImagePicker/QMImagePicker.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/Tools/QMImagePreview/QMImagePreview.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Main/GlobalSearchVC/GlobalSearchVC.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Auth/SignupStep2VC/SignupStep2VC.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Model/UserProfile/UserProfile.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Model/WebServiceCall/WebServiceController.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Auth/License\ Agreement/QMLicenseAgreementViewController.h

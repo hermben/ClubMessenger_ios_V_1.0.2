@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/Pods/QuickBlox/Quickblox.framework/Modules/module.modulemap \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/Pods/Digits/iOS/DigitsKit.framework/Modules/module.modulemap \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/Pods/TwitterCore/iOS/TwitterCore.framework/Modules/module.modulemap \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Chat/QMChatVC/QMChatVC.m \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Chat/QMChatVC/QMChatVC.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/QMMessageStatusStringBuilder/QMStatusStringBuilder.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/QMPlaceholder/QMPlaceholder.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/Tools/QMSoundManager/QMSoundManager.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/Tools/QMImagePicker/QMImagePicker.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Views/QMOnlineTitleView/QMOnlineTitleView.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Base/QMBaseTitleView/QMBaseTitleView.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/Tools/QMColors/QMColors.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Chat/QMUserInfoViewController/QMUserInfoViewController.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Chat/QMGroupInfoViewController/QMGroupInfoViewController.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Chat/QMChatVC/QMLocationViewController.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/Tools/QMAlert/QMAlert.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/QMPhoto/QMPhoto.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/QMCallNotificationItem/QMCallNotificationItem.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/Tools/QMHelpers/QMHelpers.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Scenes/Base/QMSplitViewController/QMSplitViewController.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/Factories/QMMessagesFactory/QMMessagesHelper.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/QMNotification/QMNotification.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Classes/QMChatButtonsFactory/QMChatButtonsFactory.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Categories/UIImage/UIImage+fixOrientation.h \
+  /Users/mac/Documents/IPhone_Projects/SubVersion/ClubMessenger/trunk/LionsMessenger/Categories/QBChatDialog/QBChatDialog+OpponentID.h
